@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:layout_height="match_parent"
+              tools:context="com.bitmap.imageediting.ColorEditing.RemoveColorActivity">
+
+    <include layout="@layout/image_with_background"/>
+
+    <TextView
+        android:text="Remove color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+
+</LinearLayout>

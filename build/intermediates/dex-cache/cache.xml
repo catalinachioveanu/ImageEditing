@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c2c69fa6f37cb3fadc26de14fc4360faf3b30004.jar" />
+    </item>
+    <item
+        jar="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-1f11e76454361b8f110a175c5df266af553b3202.jar" />
+    </item>
+    <item
+        jar="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\exploded-aar\ImageEditing\imageEditingLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="80669c0ca2bc16d342243c31dc552656a6ef6d00">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-05e9276ea14a3850bc84e1b5e3cf8e795bba11d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-589353b9079b0b4cfaa0b0b65dc717d2c80f7a5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\catalina\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-1e9de8fbfcf3f2b39c1203526cf8981d8d96e5f2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageEditing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_remove_color">RemoveColorActivity</string>
+    <string name="title_activity_replace_color_intent">ReplaceColorIntent</string>
+    <string name="title_activity_remove_area">RemoveAreaActivity</string>
+    <string name="title_activity_replace_area">ReplaceAreaActivity</string>
+    <string name="title_activity_replace_area_with_tolerance">ReplaceAreaWithToleranceActivity
+    </string>
+    <string name="title_activity_remove_area_with_tolerance">RemoveAreaWithTolerance</string>
+    <string name="title_activity_soften_edges">SoftenEdgesActivity</string>
+
+</resources>

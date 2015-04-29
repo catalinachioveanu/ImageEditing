@@ -1,0 +1,23 @@
+<custom:view xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:custom="http://schemas.android.com/apk/res-auto"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      custom:side="Width"
+      android:background="#0000FF"
+      class="com.bitmap.imageediting.Views.SquareRelativeLayout"
+      android:id="@+id/view">
+    <com.bitmap.imageediting.Views.SquareImageView
+        android:src="@drawable/ic_grid"
+        custom:side="Width"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.bitmap.imageediting.Views.SquareImageView
+        android:id="@+id/imageView"
+        android:src="@drawable/ic_test"
+        custom:side="Width"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</custom:view>

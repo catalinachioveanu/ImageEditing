@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bitmap.imageediting" >
+
+    <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ColorEditing.RemoveColorActivity"
+            android:label="@string/title_activity_remove_color" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.ReplaceColorActivity"
+            android:label="@string/title_activity_replace_color_intent" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.RemoveAreaActivity"
+            android:label="@string/title_activity_remove_area" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.ReplaceAreaActivity"
+            android:label="@string/title_activity_replace_area" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.ReplaceAreaWithToleranceActivity"
+            android:label="@string/title_activity_replace_area_with_tolerance" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.RemoveAreaWithToleranceActivity"
+            android:label="@string/title_activity_remove_area_with_tolerance" >
+        </activity>
+        <activity
+            android:name=".ColorEditing.SoftenEdgesActivity"
+            android:label="@string/title_activity_soften_edges" >
+        </activity>
+    </application>
+
+</manifest>

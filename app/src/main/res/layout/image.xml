@@ -1,0 +1,26 @@
+<custom:view xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:custom="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             custom:side="Width"
+             class="com.bitmap.imageediting.Views.SquareRelativeLayout"
+             android:id="@+id/view">
+    <com.bitmap.imageediting.Views.SquareImageView
+        android:background="#FFFFFF"
+        custom:side="Width"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.bitmap.imageediting.Views.SquareImageView
+        android:id="@+id/imageView"
+        android:src="@drawable/shoes"
+        custom:side="Width"
+
+        android:background="#f9f9f9"
+        android:adjustViewBounds="true"
+        android:scaleType="centerInside"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</custom:view>

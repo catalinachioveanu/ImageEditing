@@ -1,0 +1,6 @@
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\classes\debug
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-1e9de8fbfcf3f2b39c1203526cf8981d8d96e5f2.jar
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-05e9276ea14a3850bc84e1b5e3cf8e795bba11d4.jar
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c2c69fa6f37cb3fadc26de14fc4360faf3b30004.jar
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-589353b9079b0b4cfaa0b0b65dc717d2c80f7a5f.jar
+C:\Users\catalina\AndroidStudioProjects\ImageEditing\app\build\intermediates\pre-dexed\debug\classes-1f11e76454361b8f110a175c5df266af553b3202.jar
